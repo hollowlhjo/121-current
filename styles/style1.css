@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    border: 10px solid black;
+    border-radius: 60px 45px;
+    background-color: brown;
+    margin: 50px;
+    width: 25%;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
